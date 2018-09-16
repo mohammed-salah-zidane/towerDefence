@@ -1,0 +1,42 @@
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEditor.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEngine.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEngine.xml
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEditor.xml
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\obj\Debug\Assembly-CSharp.dll
+D:\Fourth level\الحركة بالحاسب\Unity Projects\TowerDefenseGame\obj\Debug\Assembly-CSharp.pdb
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Assembly-CSharp.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Mono.Cecil.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEditor.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEngine.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEngine.UI.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Unity.DataContract.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Unity.CecilTools.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEngine.xml
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEditor.xml
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEngine.UI.xml
+E:\FCI\TowerDefenseGame\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\FCI\TowerDefenseGame\obj\Debug\Assembly-CSharp.dll
+E:\FCI\TowerDefenseGame\obj\Debug\Assembly-CSharp.pdb
